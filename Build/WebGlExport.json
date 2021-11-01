@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Libro interactivo Heroes silenciosos",
+"productVersion": "0.1",
+"dataUrl": "WebGlExport.data.unityweb",
+"wasmCodeUrl": "WebGlExport.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGlExport.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
